@@ -1,0 +1,127 @@
+<ASX version="3.0">
+
+<ENTRY>
+<TITLE>____ Rap _______________________</TITLE>
+<REF href="http://xthree.net/NetRadio/1sec.mp3" />
+</ENTRY>
+<ENTRY>
+<TITLE>TrueHipHop.FM</TITLE>
+<REF href="http://truehiphop.dyndns.org:9020" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>ClassicRap</TITLE>
+<REF href="http://streaming201.radionomy.com/Classic-Rap" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>Wu World Radio</TITLE>
+<REF href="http://173.201.191.13:8000" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>One Love Hip Hop Radio</TITLE>
+<REF href="http://listen.radionomy.com/one-love-hip-hop-radio" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+
+<ENTRY>
+<TITLE>____ R`n`B _____________________</TITLE>
+<REF href="http://xthree.net/NetRadio/1sec.mp3" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>DEFJAY.COM 100% R&B</TITLE>
+<REF href="http://212.45.104.50:8000" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+
+<ENTRY>
+<TITLE>____ Electronic ________________</TITLE>
+<REF href="http://xthree.net/NetRadio/1sec.mp3" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>DoggLounge</TITLE>
+<REF href="http://master.dogglounge.com:9128" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>Deepinradio</TITLE>
+<REF href="http://s3.viastreaming.net:8525" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>Dubstep Light Radio</TITLE>
+<REF href="http://dubstep-light.info:8000/dubsteplight.mp3" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>VirtualDJ ClubZone</TITLE>
+<REF href="http://radio.virtualdj.com:8000" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>Turntables24 House</TITLE>
+<REF href="http://stream.turntables24.de:9200" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+
+<ENTRY>
+<TITLE>____ Blues _____________________</TITLE>
+<REF href="http://xthree.net/NetRadio/1sec.mp3" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>Blues Connection</TITLE>
+<REF href="http://199.101.51.168:8004" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>Amazing Blues</TITLE>
+<REF href="http://streaming.amazingradios.com/arblueshigh" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+
+<ENTRY>
+<TITLE>____ Pop _______________________</TITLE>
+<REF href="http://xthree.net/NetRadio/1sec.mp3" />
+</ENTRY>
+<ENTRY>
+<TITLE>KissFM Romania</TITLE>
+<REF href="http://80.86.106.136:8090" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>non-stop</TITLE>
+<REF href="http://217.172.190.185:8002" />
+<PARAM NAME="Bitrate" VALUE="320000" />
+</ENTRY>
+
+<ENTRY>
+<TITLE>____ 90`s Hits _________________</TITLE>
+<REF href="http://xthree.net/NetRadio/1sec.mp3" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>181.fm - Star 90's</TITLE>
+<REF href="http://relay.181.fm:8012" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>BoB 90`s</TITLE>
+<REF href="http://77.78.0.131:8000" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>Europarussia</TITLE>
+<REF href="http://europarussia.ru:8000/live" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+<ENTRY>
+<TITLE>Best Net Radio - 90s Alternative</TITLE>
+<REF href="http://107.155.126.42:7070" />
+<PARAM NAME="Bitrate" VALUE="128000" />
+</ENTRY>
+
+</ASX>
